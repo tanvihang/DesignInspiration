@@ -8,6 +8,7 @@ This repo is used to gather professional website design by desingers for learnin
 
 - [Website Inspiration](#website-inspiration)
   - [Rating aspect](#rating-aspect)
+  - [Timeline](#timeline)
   - [Awwwards](#awwwards)
   - [Dribble](#dribble)
   - [Behance](#behance)
@@ -37,6 +38,16 @@ This repo is used to gather professional website design by desingers for learnin
 6. Branding and Creativity
    1. Brand alignment
    2. Creative element
+
+---
+
+## Timeline
+
+| No  | Websites                                    | Source        |
+| --- | ------------------------------------------- | ------------- |
+| 1   | [ Shaga ](https://www.odyssey.shaga.xyz/)   | Awwwards      |
+| 2   | [ GelatoLaboca ](https://gelatolaboca.com/) | Awwwards SOTD |
+
 
 ---
 

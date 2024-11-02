@@ -167,6 +167,7 @@
 
 **Characteristic**
 - Use nostalgic color palletes
+  - By mean of nostalgic color palletes there are (**muted**, **earthy** color)
 - Typography inspired by vintage poster
 - Grainy texture and retro icons
 
