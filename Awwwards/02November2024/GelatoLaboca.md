@@ -1,6 +1,7 @@
 # GelatoLaboca
 
 URL - https://gelatolaboca.com/
+Date - 2024/11/2
 
 **Rating**
 | Aspect                      | Score |

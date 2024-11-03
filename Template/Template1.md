@@ -43,40 +43,41 @@ URL - https://gelatolaboca.com/
 # Layout and Structure
 
 
-1. **Header and Navigation**
+**Header and Navigation**
 
-2. **Spacing and Whitespace**
+**Spacing and Whitespace**
 
-
-3. **Responsiveness**
+**Responsiveness**
 
 ---
 
 # UX
 
-1. **Clarity/Goal**
+**Clarity/Goal**
 
 
-2. **Flow**
+**Flow**
 
 
-3. **Consistency**
+**Consistency**
 
 
 
 ---
 
 # Usability
-1. **Speed**
-2. **Accessibility**
+
+**Speed**
+
+**Accessibility**
 
 ---
 
 # Content
-1. **Copy writing**
 
+**Copy writing**
 
-2. **Information Hierarchy**
+**Information Hierarchy**
 
 
 
@@ -84,6 +85,7 @@ URL - https://gelatolaboca.com/
 ---
 
 # Branding and Creativity
-1. Brand alignment
 
-2. **Creative Elements**
+**Brand alignment**
+
+**Creative Elements**
