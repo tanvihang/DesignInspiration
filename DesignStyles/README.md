@@ -37,7 +37,7 @@
 
 **Characteristic**
 - Focus on simplicity
-- Use **neutral color (natural color)** and ample white space
+- Use **neutral color (natural color)** and ample **white space**
 - Minimal text and UI elements
 - Only **essential** features, with no distraction
 - *"Every element serves a clear purpose—if it’s not needed, it’s removed"*

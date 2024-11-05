@@ -46,7 +46,11 @@ Maison Neue (Paid) - https://www.myfonts.com/collections/maison-neue-font-milieu
 
 
 **Images & graphic**
-
+- Uses really **high quality image & motions**, which makes this website looks very high-end
+- Also the graphic, although have no connection, but still fire
+![alt text](assets/image-9.png)
+![alt text](assets/Animation-4.gif)
+![alt text](assets/Animation-5.gif)
 
 ---
 
@@ -54,23 +58,45 @@ Maison Neue (Paid) - https://www.myfonts.com/collections/maison-neue-font-milieu
 
 
 **Header and Navigation**
+- Typical header navigation, but it's minimal, user need to click to look inside
+![alt text](assets/image-10.png)
+Theres one thing that makes this header look more luxury is the animation.
+- Nav selection text (bottom-up animation)
+- Duten word also (bottom-up with alternate character)
+- **Search line from left to right animation** 
 
 **Spacing and Whitespace**
+It utilize the whitespace really good.
+- Every viewing port only have one important sentences to make user concentrate on it
+- Also it uses animation for the text so it wont look boring (parallax, bottom-up, enlarging)
+
+For crowded place, like the menu, it uses color to make it up.
+![alt text](assets/image-10.png)
 
 **Responsiveness**
+It's good.
+flex column to flex row.
 
 ---
 
 # UX
 
 **Clarity/Goal**
-
+- To market their luxury product
 
 **Flow**
-
+- Intro - "Quality and Minimal design"
+- Story of the product
+![alt text](assets/image-12.png)
+- Showcase more product (3d), really cool!
+![alt text](assets/image-11.png)
+- After some sick showcase, give even cool showcase! (Gain more attraction)
+![alt text](assets/image-13.png)
+- Testimonial (**Last power to gain reputation**)
+- More other products.
 
 **Consistency**
-
+10/10
 
 
 ---
@@ -78,8 +104,10 @@ Maison Neue (Paid) - https://www.myfonts.com/collections/maison-neue-font-milieu
 # Usability
 
 **Speed**
+10/10
 
 **Accessibility**
+- multiple language
 
 ---
 
@@ -99,3 +127,7 @@ Maison Neue (Paid) - https://www.myfonts.com/collections/maison-neue-font-milieu
 **Brand alignment**
 
 **Creative Elements**
+- Used a lot of **parallax scrolling effect** for text and images
+```json
+transform: translate3d(0px, -10.0599px, 0px);
+```
