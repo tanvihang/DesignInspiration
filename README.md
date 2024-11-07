@@ -48,7 +48,7 @@ This repo is used to gather professional website design by desingers for learnin
 | 1   | [ Shaga ](https://www.odyssey.shaga.xyz/)   | Awwwards      |
 | 2   | [ GelatoLaboca ](https://gelatolaboca.com/) | Awwwards SOTD |
 | 3   | [Duten](https://www.duten.com/en/)          | Awwwards SOTD |
-
+| 4   | [Love and Money](https://loveandmoney.agency/work) | Awwwards SOTD |
 
 ---
 
